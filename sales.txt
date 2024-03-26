@@ -1,0 +1,3 @@
+Sale: Book ID - 101, Title - Book1, Quantity Sold - 1, Customer - Umme
+Sale: Book ID - 101, Title - Book1, Quantity Sold - 1, Customer - umme
+Sale: Book ID - 108, Title - HP, Quantity Sold - 1, Customer - Muaz
